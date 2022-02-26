@@ -32,7 +32,7 @@ git clone https://github.com/priteshyadav444/MoneyHouse.git
       cd ..
   
 ### 4) Start Backend + Client using following command
-  *npm run dev *
+  *npm run dev*
   ```javascript
     package.json File
       "scripts": {
