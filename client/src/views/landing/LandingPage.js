@@ -88,12 +88,9 @@ export default function LandingPage() {
                     data-aos-delay={100}
                   >
                     <h3>
-                      MoneyHouse involves a group of people . where each person
-                      contributes certain amount of money towards a pool of
-                      funds On a Monthly Basis and Pool amount is collected (You
-                      can join any of house as per your spending Limit ) . Now
-                      an auction among the members for granting this pool
-                      Amount. (The auction amount is the Loss on the pool)
+                    MoneyHouse involves a group of people where each person contributes a certain amount of money towards a pool of funds On a Monthly Basis and 
+                    the Pool amount is collected. A Reverse auction happens among the members to grant this pool Amount to any of the members in the group. 
+                    This Auction occurs for those members who have not taken the pool once and other benefited members have to pay their contribution every time.
                     </h3>
                   </div>
                 </div>
@@ -105,15 +102,12 @@ export default function LandingPage() {
                     data-aos-delay={100}
                   >
                     <h3>
-                      Let’s assume that One Member Bid for the auction at Rs.
-                      4,000 bid amount of pool Amount 50,000 amoung 5 Member and
-                      win the bid. So That Member will get Rs. 46,000 (Pool of
-                      Rs. 50,000 at a loss of Rs. 4,000). and The Rs. 4,000 bid
-                      amount is equally divided among Other 4 members They have
-                      to Pay Rs. 9,000(Rs. 10,000 - Rs. 1,000) in next Month. So
-                      at an investment of Rs. 10,000, each member gets a profit
-                      of Rs. 1,000 upfront And Winner Get pool Amount within a
-                      day.
+                    Let’s assume 5 members took a part in the pool of 50,000. 
+                    Each Contributed 10,000. One of the members places a Bid amount of ₹ 4,000  and he wins the auction because no other members place a bid higher than him. 
+                    So That Member will get ₹ 46,000 (Pool of ₹ 50,000 at a loss of ₹ 4,000). 
+                    The remaining ₹ 4,000 bid amount is equally distributed among the other 4 members. 
+                    They have to pay ₹ 9,000 only (₹ 10,000 - ₹ 1,000) in next month's Pool collection. 
+                    So at an investment of ₹ 10,000, each member gets a profit of ₹ 1,000 upfront and the Winner Gets the pool Amount on that day as a loan but he has to pay ₹ 10,000 in the next Pool.
                     </h3>
                   </div>
                   <div
