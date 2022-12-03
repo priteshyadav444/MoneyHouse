@@ -6,7 +6,7 @@ This Auction occurs for those members who have not taken the pool once and other
 
 
 
-## # Local Setup ( Single Repo Frontend and Backend)
+## # Local Setup ( Single Repo Frontend and Backend Setup)
 ### 1) Clone this Repo 
 git clone https://github.com/priteshyadav444/MoneyHouse.git
 ### 2) Create .env file provide all the importent key like for payment gatway, databases and other keys
@@ -45,3 +45,7 @@ git clone https://github.com/priteshyadav444/MoneyHouse.git
       }
 
 ```
+
+### Seprate Backend and Frontend Repo 
+- **Frontend Repo**  -  [https://github.com/priteshyadav444/frontend-moneyhouse.git](https://github.com/priteshyadav444/frontend-moneyhouse)
+- **Backend Repo**  - [https://github.com/priteshyadav444/api-moneyhouse.git](https://github.com/priteshyadav444/api-moneyhouse)
